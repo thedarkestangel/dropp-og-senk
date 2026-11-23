@@ -1,39 +1,20 @@
 # Én produktlenke per linje.
 # Vil du ha eget varsel når prisen når et bestemt nivå, skriv:  lenke | ønsket pris
-# Samme produkt i flere butikker: skriv navnet i [hakeparentes] og lenkene under.
-# Da følges laveste pris på tvers av butikkene.
+# Eksempel:  https://www.csmegastore.no/i/12345/noe-parfyme | 280
 # Linjer som starter med # blir ignorert.
 
 https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn
+https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn
+https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex
 https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce
 https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex
+https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn
+https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn
+https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml
+https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml
 https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex
 https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml
 https://www.csmegastore.no/i/26019818/arabiyat-prestige-marwa-parfyme-extrait-de-parfum-60-ml-unisex
-
-[French Avenue Spectre Ghost 80 ml]
-https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn
-https://lyko.com/no/french-avenue/french-avenue-spectre-ghost-edp-m-80-ml
-
-[French Avenue Pinnace 100 ml]
-https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex
-https://lyko.com/no/french-avenue/french-avenue-pinnace-edp-w-100-ml
-
-[Afnan Supremacy Collector's Edition 100 ml]
-https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn
-https://lyko.com/no/afnan-perfumes/afnan-supremacy-collector-s-edp-m-100-ml
-
-[Afnan Supremacy in Heaven 100 ml]
-https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn
-https://lyko.com/no/afnan-perfumes/afnan-supremacy-in-heaven-edp-m-100-ml
-
-[Rayhaan Nava Sol 100 ml]
-https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml
-https://lyko.com/no/rayhaan/rayhaan-nava-sol-edp-u-100-ml
-
-[Rayhaan Tiger 100 ml]
-https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml
-https://lyko.com/no/rayhaan/rayhaan-tiger-edp-m-100-ml
 
 [Google Fitbit Air (alle farger)]
 https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-obsidian/1096941
