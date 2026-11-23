@@ -1,0 +1,9 @@
+{
+  "name": "Dropp & Senk",
+  "short_name": "Dropp & Senk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0b16",
+  "theme_color": "#0b0b16"
+}
