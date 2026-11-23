@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Prisvakt: sjekker priser på produktsider og sender push-varsel til iPhone via ntfy.
+"""Dropp & Senk: sjekker priser på produktsider og sender push-varsel til iPhone via ntfy.
 
 - products.txt: hva som skal følges (enkeltlenker eller produktgrupper på tvers av butikker)
 - prices.json: prishistorikk
-- GitHub-issuet «Prisvakt – handleliste»: avkrysningsliste. Huk av et produkt når du har
+- GitHub-issuet «Dropp & Senk – handleliste»: avkrysningsliste. Huk av et produkt når du har
   kjøpt det, så slutter overvåkningen. Fjern haken for å starte igjen.
 Bruker kun Pythons standardbibliotek.
 """
@@ -25,7 +25,7 @@ NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")
-ISSUE_TITLE = "Prisvakt – handleliste"
+ISSUE_TITLE = "Dropp & Senk – handleliste"
 ERROR_ALERT_AFTER = 3  # varsle om feil etter så mange mislykte sjekker på rad
 
 UA = ("Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 "
@@ -242,7 +242,7 @@ def known_ids(body):
 
 def render_issue(units, state, bought):
     tz = ZoneInfo("Europe/Oslo")
-    lines = ["Huk av det du har **kjøpt**, så slutter Prisvakt å overvåke det. "
+    lines = ["Huk av det du har **kjøpt**, så slutter Dropp & Senk å overvåke det. "
              "Fjern haken for å starte igjen. Listen oppdateres ved hver prissjekk.", ""]
     active, done = [], []
     for u in units:
@@ -338,7 +338,7 @@ def check_url(url, state, label_for_errors):
         entry["errors"] = entry.get("errors", 0) + 1
         print(f"FEIL  {url}: {e}")
         if entry["errors"] == ERROR_ALERT_AFTER:
-            notify("Prisvakt: får ikke lest pris", f"{label_for_errors}\n{store_of(url)}: {e}",
+            notify("Dropp & Senk: får ikke lest pris", f"{label_for_errors}\n{store_of(url)}: {e}",
                    url=url, tags="warning")
         return None, None
     entry["errors"] = 0
@@ -433,7 +433,7 @@ def main():
     write_app_data(units, state, bought, issue)
 
     if first_run and summary:
-        notify("Prisvakt er i gang", "Følger nå:\n" + "\n".join(summary), tags="white_check_mark")
+        notify("Dropp & Senk er i gang", "Følger nå:\n" + "\n".join(summary), tags="white_check_mark")
 
 
 def write_app_data(units, state, bought, issue):
@@ -472,79 +472,3 @@ def write_app_data(units, state, bought, issue):
 if __name__ == "__main__":
     main()
 
-# Én produktlenke per linje.
-# Vil du ha eget varsel når prisen når et bestemt nivå, skriv:  lenke | ønsket pris
-# Eksempel:  https://www.csmegastore.no/i/12345/noe-parfyme | 280
-# Linjer som starter med # blir ignorert.
-
-https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn
-https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn
-https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex
-https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce
-https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex
-https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn
-https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn
-https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml
-https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml
-https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex
-https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml
-https://www.csmegastore.no/i/26019818/arabiyat-prestige-marwa-parfyme-extrait-de-parfum-60-ml-unisex
-
-[Google Fitbit Air (alle farger)]
-https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-obsidian/1096941
-https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942
-https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943
-https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444
-https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-obsidian-p88369
-https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-lavender-p88370
-https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-berry-p88372
-https://store.google.com/no/product/google_fitbit_air?hl=no
-
-# Prisvakt – prisvarsler og app på iPhone
-
-Sjekker prisene i `products.txt` hver 3. time, sender push-varsel til iPhonen (via ntfy) når en pris går ned, og viser alt i en egen app med grafer.
-
-## Oppsett (ca. 15 min)
-
-1. **ntfy på iPhone:** Installer *ntfy* fra App Store, trykk **+** og abonner på emnet `prisvakt-1019915b9f`. Emnenavnet fungerer som et passord, så ikke del det.
-2. **Nytt repo på GitHub:** github.com → **New repository** → navn `prisvakt` → velg **Public** → **Create repository**.
-   *Public trengs for at appen skal kunne ligge gratis på GitHub Pages. Det eneste som blir synlig, er produktlisten og prisene. ntfy-emnet og nøkkelen din blir ikke synlige.*
-3. **Last opp filene:** Trykk «uploading an existing file», og dra inn *innholdet* i denne mappen (`check_prices.py`, `products.txt`, `README.md` og mappene `.github` og `docs`). Trykk **Commit changes**.
-   - Er `.github` skjult på Mac? Trykk Cmd + Shift + punktum i Finder for å vise den.
-4. **Legg inn ntfy-emnet:** Settings → Secrets and variables → Actions → **New repository secret**. Navn: `NTFY_TOPIC`, verdi: emnet fra punkt 1.
-5. **Slå på appen:** Settings → **Pages** → under «Branch» velger du `main` og mappen `/docs` → **Save**. Etter et minutt eller to står adressen øverst på siden, for eksempel `https://BRUKERNAVN.github.io/prisvakt/`.
-6. **Første kjøring:** Actions → Prisvakt → **Run workflow**. Etter noen sekunder får du varselet «Prisvakt er i gang».
-
-## Appen på hjemskjermen
-1. Åpne app-adressen fra punkt 5 i **Safari** på iPhonen.
-2. Trykk Del-knappen → **Legg til på Hjem-skjerm**.
-3. Åpne Prisvakt fra hjemskjermen. Den åpnes i fullskjerm, som en vanlig app.
-
-Trykk på et produkt for å se grafen. Dra fingeren over grafen for å se prisen på en bestemt dato.
-
-### Huke av «kjøpt» fra appen
-Appen trenger en personlig nøkkel for å kunne endre handlelisten og starte en ny sjekk:
-1. Gå til github.com → Settings → Developer settings → **Fine-grained tokens** → **Generate new token**.
-2. Velg **Only select repositories** → `prisvakt`.
-3. Under «Permissions» gir du **Issues: Read and write** og **Actions: Read and write**.
-4. Kopier nøkkelen. I appen trykker du tannhjulet ⚙ → limer den inn → **Lagre**.
-
-Nøkkelen lagres bare på telefonen. Nå kan du trykke **«✓ Jeg har kjøpt den»** på et produkt. Da slutter overvåkningen, og produktet flyttes til fanen «Kjøpt». Knappen ↻ starter en ny prissjekk med en gang.
-
-Handlelisten finnes også under **Issues → «Prisvakt – handleliste»** på GitHub, og avkrysningen virker begge steder.
-
-## Legge til eller fjerne produkter
-Åpne `products.txt` på GitHub, trykk blyanten og legg til én lenke per linje. Vil du ha et eget varsel når prisen når et bestemt nivå, skriv `lenke | 280`.
-
-Vil du følge ett produkt i flere butikker eller farger, skriver du navnet i hakeparentes og legger lenkene rett under (med en tom linje før neste produkt):
-
-```
-[Google Fitbit Air (alle farger) | 1000]
-https://www.elkjop.no/...
-https://www.kjell.com/no/...
-```
-
-## Varsler du får
-- **Prisfall:** gammel pris → ny pris, butikk, og om det er den laveste prisen så langt.
-- **Ønsket pris nådd:** hvis du har satt et mål.
-- **Får ikke lest pris:** hvis en side feiler 3 ganger på rad (for eksempel hvis siden er endret eller tatt ned).
