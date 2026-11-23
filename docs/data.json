@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:11:02+00:00",
+ "updated": "2026-11-23T22:13:35+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -30,6 +30,62 @@
      "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
      "store": "csmegastore.no",
      "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+   "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml for menn",
+   "group": false,
+   "target": null,
+   "price": 408.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+   "lowest": 408.0,
+   "highest": 408.0,
+   "first": 408.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:19+00:00",
+     "price": 408.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 408.0,
+     "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+     "store": "csmegastore.no",
+     "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+   "name": "French Avenue Pinnace Eau de Parfum parfyme 100 ml unisex",
+   "group": false,
+   "target": null,
+   "price": 395.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+   "lowest": 395.0,
+   "highest": 395.0,
+   "first": 395.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:20+00:00",
+     "price": 395.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 395.0,
+     "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+     "store": "csmegastore.no",
+     "name": "French Avenue Pinnace Eau de Parfum parfyme 100 ml unisex"
     }
    ],
    "bought": false
@@ -96,6 +152,118 @@
      "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+   "name": "Afnan Supremacy Collector's Edition parfyme 100 ml for menn",
+   "group": false,
+   "target": null,
+   "price": 715.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+   "lowest": 715.0,
+   "highest": 715.0,
+   "first": 715.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:21+00:00",
+     "price": 715.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 715.0,
+     "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+     "store": "csmegastore.no",
+     "name": "Afnan Supremacy Collector's Edition parfyme 100 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+   "name": "Afnan Supremacy in Heaven Eau de Parfum 100 ml for menn",
+   "group": false,
+   "target": null,
+   "price": 339.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+   "lowest": 339.0,
+   "highest": 339.0,
+   "first": 339.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:22+00:00",
+     "price": 339.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 339.0,
+     "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+     "store": "csmegastore.no",
+     "name": "Afnan Supremacy in Heaven Eau de Parfum 100 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+   "name": "Rayhaan Nava Sol Eau de Parfum unisexparfyme 100 ml",
+   "group": false,
+   "target": null,
+   "price": 359.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+   "lowest": 359.0,
+   "highest": 359.0,
+   "first": 359.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:22+00:00",
+     "price": 359.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 359.0,
+     "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+     "store": "csmegastore.no",
+     "name": "Rayhaan Nava Sol Eau de Parfum unisexparfyme 100 ml"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+   "name": "Rayhaan Tiger Eau de Parfum spray 100 ml",
+   "group": false,
+   "target": null,
+   "price": 255.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+   "lowest": 255.0,
+   "highest": 255.0,
+   "first": 255.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:23+00:00",
+     "price": 255.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 255.0,
+     "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+     "store": "csmegastore.no",
+     "name": "Rayhaan Tiger Eau de Parfum spray 100 ml"
     }
    ],
    "bought": false
@@ -180,174 +348,6 @@
      "url": "https://www.csmegastore.no/i/26019818/arabiyat-prestige-marwa-parfyme-extrait-de-parfum-60-ml-unisex",
      "store": "csmegastore.no",
      "name": "Arabiyat Prestige Marwa parfyme, Extrait de Parfum 60 ml, unisex"
-    }
-   ],
-   "bought": false
-  },
-  {
-   "id": "g:french avenue spectre ghost 80 ml",
-   "name": "French Avenue Spectre Ghost 80 ml",
-   "group": true,
-   "target": null,
-   "price": 408.0,
-   "store": "csmegastore.no",
-   "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
-   "lowest": 408.0,
-   "highest": 408.0,
-   "first": 408.0,
-   "history": [
-    {
-     "t": "2026-11-23T22:10:52+00:00",
-     "price": 408.0,
-     "store": "csmegastore.no"
-    }
-   ],
-   "offers": [
-    {
-     "price": 408.0,
-     "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
-     "store": "csmegastore.no",
-     "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml for menn"
-    }
-   ],
-   "bought": false
-  },
-  {
-   "id": "g:french avenue pinnace 100 ml",
-   "name": "French Avenue Pinnace 100 ml",
-   "group": true,
-   "target": null,
-   "price": 395.0,
-   "store": "csmegastore.no",
-   "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
-   "lowest": 395.0,
-   "highest": 395.0,
-   "first": 395.0,
-   "history": [
-    {
-     "t": "2026-11-23T22:10:53+00:00",
-     "price": 395.0,
-     "store": "csmegastore.no"
-    }
-   ],
-   "offers": [
-    {
-     "price": 395.0,
-     "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
-     "store": "csmegastore.no",
-     "name": "French Avenue Pinnace Eau de Parfum parfyme 100 ml unisex"
-    }
-   ],
-   "bought": false
-  },
-  {
-   "id": "g:afnan supremacy collector's edition 100 ml",
-   "name": "Afnan Supremacy Collector's Edition 100 ml",
-   "group": true,
-   "target": null,
-   "price": 715.0,
-   "store": "csmegastore.no",
-   "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
-   "lowest": 715.0,
-   "highest": 715.0,
-   "first": 715.0,
-   "history": [
-    {
-     "t": "2026-11-23T22:10:54+00:00",
-     "price": 715.0,
-     "store": "csmegastore.no"
-    }
-   ],
-   "offers": [
-    {
-     "price": 715.0,
-     "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
-     "store": "csmegastore.no",
-     "name": "Afnan Supremacy Collector's Edition parfyme 100 ml for menn"
-    }
-   ],
-   "bought": false
-  },
-  {
-   "id": "g:afnan supremacy in heaven 100 ml",
-   "name": "Afnan Supremacy in Heaven 100 ml",
-   "group": true,
-   "target": null,
-   "price": 339.0,
-   "store": "csmegastore.no",
-   "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
-   "lowest": 339.0,
-   "highest": 339.0,
-   "first": 339.0,
-   "history": [
-    {
-     "t": "2026-11-23T22:10:55+00:00",
-     "price": 339.0,
-     "store": "csmegastore.no"
-    }
-   ],
-   "offers": [
-    {
-     "price": 339.0,
-     "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
-     "store": "csmegastore.no",
-     "name": "Afnan Supremacy in Heaven Eau de Parfum 100 ml for menn"
-    }
-   ],
-   "bought": false
-  },
-  {
-   "id": "g:rayhaan nava sol 100 ml",
-   "name": "Rayhaan Nava Sol 100 ml",
-   "group": true,
-   "target": null,
-   "price": 359.0,
-   "store": "csmegastore.no",
-   "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
-   "lowest": 359.0,
-   "highest": 359.0,
-   "first": 359.0,
-   "history": [
-    {
-     "t": "2026-11-23T22:10:56+00:00",
-     "price": 359.0,
-     "store": "csmegastore.no"
-    }
-   ],
-   "offers": [
-    {
-     "price": 359.0,
-     "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
-     "store": "csmegastore.no",
-     "name": "Rayhaan Nava Sol Eau de Parfum unisexparfyme 100 ml"
-    }
-   ],
-   "bought": false
-  },
-  {
-   "id": "g:rayhaan tiger 100 ml",
-   "name": "Rayhaan Tiger 100 ml",
-   "group": true,
-   "target": null,
-   "price": 255.0,
-   "store": "csmegastore.no",
-   "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
-   "lowest": 255.0,
-   "highest": 255.0,
-   "first": 255.0,
-   "history": [
-    {
-     "t": "2026-11-23T22:10:57+00:00",
-     "price": 255.0,
-     "store": "csmegastore.no"
-    }
-   ],
-   "offers": [
-    {
-     "price": 255.0,
-     "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
-     "store": "csmegastore.no",
-     "name": "Rayhaan Tiger Eau de Parfum spray 100 ml"
     }
    ],
    "bought": false
