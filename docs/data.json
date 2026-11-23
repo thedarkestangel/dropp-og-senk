@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:13:31+00:00",
+ "updated": "2026-11-23T22:00:34+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -95,22 +95,27 @@
    "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce",
    "group": false,
    "target": null,
-   "price": 299.0,
+   "price": 300.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
    "lowest": 299.0,
-   "highest": 299.0,
+   "highest": 300.0,
    "first": 299.0,
    "history": [
     {
      "t": "2026-11-23T20:13:20+00:00",
      "price": 299.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-23T22:00:24+00:00",
+     "price": 300.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 299.0,
+     "price": 300.0,
      "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce"
@@ -123,22 +128,27 @@
    "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex",
    "group": false,
    "target": null,
-   "price": 276.0,
+   "price": 277.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
    "lowest": 276.0,
-   "highest": 276.0,
+   "highest": 277.0,
    "first": 276.0,
    "history": [
     {
      "t": "2026-11-23T20:13:21+00:00",
      "price": 276.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-23T22:00:24+00:00",
+     "price": 277.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 276.0,
+     "price": 277.0,
      "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex"
