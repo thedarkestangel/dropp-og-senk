@@ -1,0 +1,392 @@
+{
+ "updated": "2026-11-23T20:13:31+00:00",
+ "repo": "thedarkestangel/dropp-og-senk",
+ "issue": {
+  "number": 1,
+  "url": "https://github.com/thedarkestangel/dropp-og-senk/issues/1"
+ },
+ "products": [
+  {
+   "id": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
+   "name": "Khadlaj Onyx Gold parfyme 100 ml for menn",
+   "group": false,
+   "target": null,
+   "price": 288.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
+   "lowest": 288.0,
+   "highest": 288.0,
+   "first": 288.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:18+00:00",
+     "price": 288.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 288.0,
+     "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
+     "store": "csmegastore.no",
+     "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+   "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml for menn",
+   "group": false,
+   "target": null,
+   "price": 408.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+   "lowest": 408.0,
+   "highest": 408.0,
+   "first": 408.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:19+00:00",
+     "price": 408.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 408.0,
+     "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+     "store": "csmegastore.no",
+     "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+   "name": "French Avenue Pinnace Eau de Parfum parfyme 100 ml unisex",
+   "group": false,
+   "target": null,
+   "price": 395.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+   "lowest": 395.0,
+   "highest": 395.0,
+   "first": 395.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:20+00:00",
+     "price": 395.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 395.0,
+     "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+     "store": "csmegastore.no",
+     "name": "French Avenue Pinnace Eau de Parfum parfyme 100 ml unisex"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
+   "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce",
+   "group": false,
+   "target": null,
+   "price": 299.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
+   "lowest": 299.0,
+   "highest": 299.0,
+   "first": 299.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:20+00:00",
+     "price": 299.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 299.0,
+     "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
+     "store": "csmegastore.no",
+     "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
+   "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex",
+   "group": false,
+   "target": null,
+   "price": 276.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
+   "lowest": 276.0,
+   "highest": 276.0,
+   "first": 276.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:21+00:00",
+     "price": 276.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 276.0,
+     "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
+     "store": "csmegastore.no",
+     "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+   "name": "Afnan Supremacy Collector's Edition parfyme 100 ml for menn",
+   "group": false,
+   "target": null,
+   "price": 715.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+   "lowest": 715.0,
+   "highest": 715.0,
+   "first": 715.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:21+00:00",
+     "price": 715.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 715.0,
+     "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+     "store": "csmegastore.no",
+     "name": "Afnan Supremacy Collector's Edition parfyme 100 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+   "name": "Afnan Supremacy in Heaven Eau de Parfum 100 ml for menn",
+   "group": false,
+   "target": null,
+   "price": 339.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+   "lowest": 339.0,
+   "highest": 339.0,
+   "first": 339.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:22+00:00",
+     "price": 339.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 339.0,
+     "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+     "store": "csmegastore.no",
+     "name": "Afnan Supremacy in Heaven Eau de Parfum 100 ml for menn"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+   "name": "Rayhaan Nava Sol Eau de Parfum unisexparfyme 100 ml",
+   "group": false,
+   "target": null,
+   "price": 359.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+   "lowest": 359.0,
+   "highest": 359.0,
+   "first": 359.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:22+00:00",
+     "price": 359.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 359.0,
+     "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+     "store": "csmegastore.no",
+     "name": "Rayhaan Nava Sol Eau de Parfum unisexparfyme 100 ml"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+   "name": "Rayhaan Tiger Eau de Parfum spray 100 ml",
+   "group": false,
+   "target": null,
+   "price": 255.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+   "lowest": 255.0,
+   "highest": 255.0,
+   "first": 255.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:23+00:00",
+     "price": 255.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 255.0,
+     "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+     "store": "csmegastore.no",
+     "name": "Rayhaan Tiger Eau de Parfum spray 100 ml"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
+   "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex",
+   "group": false,
+   "target": null,
+   "price": 876.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
+   "lowest": 876.0,
+   "highest": 876.0,
+   "first": 876.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:23+00:00",
+     "price": 876.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 876.0,
+     "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
+     "store": "csmegastore.no",
+     "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
+   "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml",
+   "group": false,
+   "target": null,
+   "price": 281.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
+   "lowest": 281.0,
+   "highest": 281.0,
+   "first": 281.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:24+00:00",
+     "price": 281.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 281.0,
+     "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
+     "store": "csmegastore.no",
+     "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "https://www.csmegastore.no/i/26019818/arabiyat-prestige-marwa-parfyme-extrait-de-parfum-60-ml-unisex",
+   "name": "Arabiyat Prestige Marwa parfyme, Extrait de Parfum 60 ml, unisex",
+   "group": false,
+   "target": null,
+   "price": 449.0,
+   "store": "csmegastore.no",
+   "url": "https://www.csmegastore.no/i/26019818/arabiyat-prestige-marwa-parfyme-extrait-de-parfum-60-ml-unisex",
+   "lowest": 449.0,
+   "highest": 449.0,
+   "first": 449.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:25+00:00",
+     "price": 449.0,
+     "store": "csmegastore.no"
+    }
+   ],
+   "offers": [
+    {
+     "price": 449.0,
+     "url": "https://www.csmegastore.no/i/26019818/arabiyat-prestige-marwa-parfyme-extrait-de-parfum-60-ml-unisex",
+     "store": "csmegastore.no",
+     "name": "Arabiyat Prestige Marwa parfyme, Extrait de Parfum 60 ml, unisex"
+    }
+   ],
+   "bought": false
+  },
+  {
+   "id": "g:google fitbit air (alle farger)",
+   "name": "Google Fitbit Air (alle farger)",
+   "group": true,
+   "target": null,
+   "price": 1199.0,
+   "store": "store.google.com",
+   "url": "https://store.google.com/no/product/google_fitbit_air?hl=no",
+   "lowest": 1199.0,
+   "highest": 1199.0,
+   "first": 1199.0,
+   "history": [
+    {
+     "t": "2026-11-23T20:13:29+00:00",
+     "price": 1199.0,
+     "store": "store.google.com"
+    }
+   ],
+   "offers": [
+    {
+     "price": 1199.0,
+     "url": "https://store.google.com/no/product/google_fitbit_air?hl=no",
+     "store": "store.google.com",
+     "name": "Google Fitbit Air"
+    },
+    {
+     "price": 1199.0,
+     "url": "https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-berry-p88372",
+     "store": "kjell.com",
+     "name": "Google Fitbit Air skjermløst aktivitetsarmbånd Berry"
+    },
+    {
+     "price": 1199.0,
+     "url": "https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-lavender-p88370",
+     "store": "kjell.com",
+     "name": "Google Fitbit Air skjermløst aktivitetsarmbånd Lavender"
+    },
+    {
+     "price": 1199.0,
+     "url": "https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-obsidian-p88369",
+     "store": "kjell.com",
+     "name": "Google Fitbit Air skjermløst aktivitetsarmbånd Obsidian"
+    }
+   ],
+   "bought": false
+  }
+ ]
+}
