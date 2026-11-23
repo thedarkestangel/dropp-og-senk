@@ -326,6 +326,144 @@
           "store": "store.google.com"
         }
       ]
+    },
+    "g:french avenue spectre ghost 80 ml": {
+      "price": 408.0,
+      "store": "csmegastore.no",
+      "lowest": 408.0,
+      "name": "French Avenue Spectre Ghost 80 ml",
+      "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+      "target": null,
+      "offers": [
+        {
+          "price": 408.0,
+          "url": "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn",
+          "store": "csmegastore.no",
+          "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml for menn"
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-11-23T22:10:52+00:00",
+          "price": 408.0,
+          "store": "csmegastore.no"
+        }
+      ]
+    },
+    "g:french avenue pinnace 100 ml": {
+      "price": 395.0,
+      "store": "csmegastore.no",
+      "lowest": 395.0,
+      "name": "French Avenue Pinnace 100 ml",
+      "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+      "target": null,
+      "offers": [
+        {
+          "price": 395.0,
+          "url": "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex",
+          "store": "csmegastore.no",
+          "name": "French Avenue Pinnace Eau de Parfum parfyme 100 ml unisex"
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-11-23T22:10:53+00:00",
+          "price": 395.0,
+          "store": "csmegastore.no"
+        }
+      ]
+    },
+    "g:afnan supremacy collector's edition 100 ml": {
+      "price": 715.0,
+      "store": "csmegastore.no",
+      "lowest": 715.0,
+      "name": "Afnan Supremacy Collector's Edition 100 ml",
+      "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+      "target": null,
+      "offers": [
+        {
+          "price": 715.0,
+          "url": "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn",
+          "store": "csmegastore.no",
+          "name": "Afnan Supremacy Collector's Edition parfyme 100 ml for menn"
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-11-23T22:10:54+00:00",
+          "price": 715.0,
+          "store": "csmegastore.no"
+        }
+      ]
+    },
+    "g:afnan supremacy in heaven 100 ml": {
+      "price": 339.0,
+      "store": "csmegastore.no",
+      "lowest": 339.0,
+      "name": "Afnan Supremacy in Heaven 100 ml",
+      "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+      "target": null,
+      "offers": [
+        {
+          "price": 339.0,
+          "url": "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn",
+          "store": "csmegastore.no",
+          "name": "Afnan Supremacy in Heaven Eau de Parfum 100 ml for menn"
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-11-23T22:10:55+00:00",
+          "price": 339.0,
+          "store": "csmegastore.no"
+        }
+      ]
+    },
+    "g:rayhaan nava sol 100 ml": {
+      "price": 359.0,
+      "store": "csmegastore.no",
+      "lowest": 359.0,
+      "name": "Rayhaan Nava Sol 100 ml",
+      "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+      "target": null,
+      "offers": [
+        {
+          "price": 359.0,
+          "url": "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml",
+          "store": "csmegastore.no",
+          "name": "Rayhaan Nava Sol Eau de Parfum unisexparfyme 100 ml"
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-11-23T22:10:56+00:00",
+          "price": 359.0,
+          "store": "csmegastore.no"
+        }
+      ]
+    },
+    "g:rayhaan tiger 100 ml": {
+      "price": 255.0,
+      "store": "csmegastore.no",
+      "lowest": 255.0,
+      "name": "Rayhaan Tiger 100 ml",
+      "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+      "target": null,
+      "offers": [
+        {
+          "price": 255.0,
+          "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
+          "store": "csmegastore.no",
+          "name": "Rayhaan Tiger Eau de Parfum spray 100 ml"
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-11-23T22:10:57+00:00",
+          "price": 255.0,
+          "store": "csmegastore.no"
+        }
+      ]
     }
   },
   "_issue": 1,
@@ -485,28 +623,28 @@
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-obsidian/1096941",
     "name": null,
     "history": [],
-    "errors": 2,
+    "errors": 3,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942",
     "name": null,
     "history": [],
-    "errors": 2,
+    "errors": 3,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943",
     "name": null,
     "history": [],
-    "errors": 2,
+    "errors": 3,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444",
     "name": null,
     "history": [],
-    "errors": 2,
+    "errors": 3,
     "lowest": null
   },
   "https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-obsidian-p88369": {
@@ -556,5 +694,47 @@
     ],
     "errors": 0,
     "lowest": 1199.0
+  },
+  "https://lyko.com/no/french-avenue/french-avenue-spectre-ghost-edp-m-80-ml": {
+    "url": "https://lyko.com/no/french-avenue/french-avenue-spectre-ghost-edp-m-80-ml",
+    "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml",
+    "history": [],
+    "errors": 1,
+    "lowest": null
+  },
+  "https://lyko.com/no/french-avenue/french-avenue-pinnace-edp-w-100-ml": {
+    "url": "https://lyko.com/no/french-avenue/french-avenue-pinnace-edp-w-100-ml",
+    "name": "French Avenue Pinnace Eau de Parfum 100 ml",
+    "history": [],
+    "errors": 1,
+    "lowest": null
+  },
+  "https://lyko.com/no/afnan-perfumes/afnan-supremacy-collector-s-edp-m-100-ml": {
+    "url": "https://lyko.com/no/afnan-perfumes/afnan-supremacy-collector-s-edp-m-100-ml",
+    "name": "Afnan Perfumes Supremacy Collector´s Eau de Parfum 100 ml",
+    "history": [],
+    "errors": 1,
+    "lowest": null
+  },
+  "https://lyko.com/no/afnan-perfumes/afnan-supremacy-in-heaven-edp-m-100-ml": {
+    "url": "https://lyko.com/no/afnan-perfumes/afnan-supremacy-in-heaven-edp-m-100-ml",
+    "name": "Afnan Perfumes Supremacy In Heaven Eau de Parfum 100 ml",
+    "history": [],
+    "errors": 1,
+    "lowest": null
+  },
+  "https://lyko.com/no/rayhaan/rayhaan-nava-sol-edp-u-100-ml": {
+    "url": "https://lyko.com/no/rayhaan/rayhaan-nava-sol-edp-u-100-ml",
+    "name": "Rayhaan Nava Sol Eau de Parfum Unisex",
+    "history": [],
+    "errors": 1,
+    "lowest": null
+  },
+  "https://lyko.com/no/rayhaan/rayhaan-tiger-edp-m-100-ml": {
+    "url": "https://lyko.com/no/rayhaan/rayhaan-tiger-edp-m-100-ml",
+    "name": "Rayhaan Tiger Eau de Parfum Man",
+    "history": [],
+    "errors": 1,
+    "lowest": null
   }
 }
