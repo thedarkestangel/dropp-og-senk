@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:23:58+00:00",
+ "updated": "2026-11-24T04:15:20+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -11,27 +11,33 @@
    "name": "Khadlaj Onyx Gold parfyme 100 ml for menn",
    "group": false,
    "target": null,
-   "price": 288.0,
+   "price": 289.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
    "lowest": 288.0,
-   "highest": 288.0,
+   "highest": 289.0,
    "first": 288.0,
    "history": [
     {
      "t": "2026-11-23T20:13:18+00:00",
      "price": 288.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-24T04:10:29+00:00",
+     "price": 289.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 288.0,
+     "price": 289.0,
      "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
      "store": "csmegastore.no",
      "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -60,6 +66,7 @@
      "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml for menn"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -88,6 +95,7 @@
      "name": "French Avenue Pinnace Eau de Parfum parfyme 100 ml unisex"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -95,10 +103,10 @@
    "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce",
    "group": false,
    "target": null,
-   "price": 300.0,
+   "price": 296.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
-   "lowest": 299.0,
+   "lowest": 296.0,
    "highest": 300.0,
    "first": 299.0,
    "history": [
@@ -111,16 +119,22 @@
      "t": "2026-11-23T22:00:24+00:00",
      "price": 300.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-24T04:10:38+00:00",
+     "price": 296.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 300.0,
+     "price": 296.0,
      "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -154,6 +168,7 @@
      "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -182,6 +197,7 @@
      "name": "Afnan Supremacy Collector's Edition parfyme 100 ml for menn"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -210,6 +226,7 @@
      "name": "Afnan Supremacy in Heaven Eau de Parfum 100 ml for menn"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -238,6 +255,7 @@
      "name": "Rayhaan Nava Sol Eau de Parfum unisexparfyme 100 ml"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -266,6 +284,7 @@
      "name": "Rayhaan Tiger Eau de Parfum spray 100 ml"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -294,6 +313,7 @@
      "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -322,6 +342,7 @@
      "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -350,6 +371,7 @@
      "name": "Arabiyat Prestige Marwa parfyme, Extrait de Parfum 60 ml, unisex"
     }
    ],
+   "failed": [],
    "bought": false
   },
   {
@@ -395,6 +417,12 @@
      "store": "kjell.com",
      "name": "Google Fitbit Air skjermløst aktivitetsarmbånd Obsidian"
     }
+   ],
+   "failed": [
+    "elkjop.no",
+    "elkjop.no",
+    "elkjop.no",
+    "elkjop.no"
    ],
    "bought": false
   }

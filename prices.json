@@ -1,7 +1,7 @@
 {
   "_status": {
     "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn": {
-      "price": 288.0,
+      "price": 289.0,
       "store": "csmegastore.no",
       "lowest": 288.0,
       "name": "Khadlaj Onyx Gold parfyme 100 ml for menn",
@@ -9,7 +9,7 @@
       "target": null,
       "offers": [
         {
-          "price": 288.0,
+          "price": 289.0,
           "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
           "store": "csmegastore.no",
           "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
@@ -20,8 +20,14 @@
           "t": "2026-11-23T20:13:18+00:00",
           "price": 288.0,
           "store": "csmegastore.no"
+        },
+        {
+          "t": "2026-11-24T04:10:29+00:00",
+          "price": 289.0,
+          "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/21858286/french-avenue-spectre-ghost-eau-de-parfum-80-ml-for-menn": {
       "price": 408.0,
@@ -44,7 +50,8 @@
           "price": 408.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/24416466/french-avenue-pinnace-eau-de-parfum-parfyme-100-ml-unisex": {
       "price": 395.0,
@@ -67,18 +74,19 @@
           "price": 395.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce": {
-      "price": 300.0,
+      "price": 296.0,
       "store": "csmegastore.no",
-      "lowest": 299.0,
+      "lowest": 296.0,
       "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce",
       "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
       "target": null,
       "offers": [
         {
-          "price": 300.0,
+          "price": 296.0,
           "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
           "store": "csmegastore.no",
           "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce"
@@ -94,8 +102,14 @@
           "t": "2026-11-23T22:00:24+00:00",
           "price": 300.0,
           "store": "csmegastore.no"
+        },
+        {
+          "t": "2026-11-24T04:10:38+00:00",
+          "price": 296.0,
+          "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex": {
       "price": 277.0,
@@ -123,7 +137,8 @@
           "price": 277.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn": {
       "price": 715.0,
@@ -146,7 +161,8 @@
           "price": 715.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/5956064/afnan-supremacy-in-heaven-eau-de-parfum-100-ml-for-menn": {
       "price": 339.0,
@@ -169,7 +185,8 @@
           "price": 339.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/25861143/rayhaan-nava-sol-eau-de-parfum-unisexparfyme-100-ml": {
       "price": 359.0,
@@ -192,7 +209,8 @@
           "price": 359.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml": {
       "price": 255.0,
@@ -215,7 +233,8 @@
           "price": 255.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex": {
       "price": 876.0,
@@ -238,7 +257,8 @@
           "price": 876.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml": {
       "price": 281.0,
@@ -261,7 +281,8 @@
           "price": 281.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "https://www.csmegastore.no/i/26019818/arabiyat-prestige-marwa-parfyme-extrait-de-parfum-60-ml-unisex": {
       "price": 449.0,
@@ -284,7 +305,8 @@
           "price": 449.0,
           "store": "csmegastore.no"
         }
-      ]
+      ],
+      "failed": []
     },
     "g:google fitbit air (alle farger)": {
       "price": 1199.0,
@@ -325,6 +347,12 @@
           "price": 1199.0,
           "store": "store.google.com"
         }
+      ],
+      "failed": [
+        "elkjop.no",
+        "elkjop.no",
+        "elkjop.no",
+        "elkjop.no"
       ]
     },
     "g:french avenue spectre ghost 80 ml": {
@@ -474,6 +502,10 @@
       {
         "t": "2026-11-23T20:13:18+00:00",
         "price": 288.0
+      },
+      {
+        "t": "2026-11-24T04:10:29+00:00",
+        "price": 289.0
       }
     ],
     "errors": 0,
@@ -514,10 +546,14 @@
       {
         "t": "2026-11-23T22:00:24+00:00",
         "price": 300.0
+      },
+      {
+        "t": "2026-11-24T04:10:38+00:00",
+        "price": 296.0
       }
     ],
     "errors": 0,
-    "lowest": 299.0
+    "lowest": 296.0
   },
   "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex": {
     "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
@@ -623,28 +659,28 @@
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-obsidian/1096941",
     "name": null,
     "history": [],
-    "errors": 5,
+    "errors": 6,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942",
     "name": null,
     "history": [],
-    "errors": 5,
+    "errors": 6,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943",
     "name": null,
     "history": [],
-    "errors": 5,
+    "errors": 6,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444",
     "name": null,
     "history": [],
-    "errors": 5,
+    "errors": 6,
     "lowest": null
   },
   "https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-obsidian-p88369": {
