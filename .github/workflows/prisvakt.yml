@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "dropp-og-senk-bot"
           git config user.email "dropp-og-senk-bot@users.noreply.github.com"
-          git add prices.json docs/data.json
+          git add prices.json docs/data.json products.txt
           git diff --cached --quiet || git commit -m "Oppdater priser"
           git push
