@@ -13,7 +13,7 @@ import os
 import re
 import sys
 import time
-import urllib.request
+import urllib.request, appkommandoer
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
@@ -329,7 +329,7 @@ def check_url(url, state, label_for_errors):
     k = key_for(url)
     entry = state.setdefault(k, {"url": url, "name": None, "history": [], "errors": 0, "lowest": None})
     try:
-        price, method, name = extract(fetch(url))
+        price, method, name = extract(appkommandoer.hent(fetch, url))
         if name:
             entry["name"] = clean_name(name)
         if price is None:
@@ -358,7 +358,7 @@ def main():
             state = json.load(f)
     first_run = not any(not k.startswith("_") for k in state)
     status = state.setdefault("_status", {})
-    units = read_products()
+    units = appkommandoer.forbered(gh, GITHUB_REPOSITORY, state, find_or_create_issue, read_products, PRODUCTS_FILE)
 
     issue = None
     try:
@@ -375,12 +375,12 @@ def main():
         if uid in bought:
             print(f"KJØPT {u['label']} – hoppes over")
             continue
-        offers = []
+        offers, failed = [], []
         for url in u["urls"]:
-            price, name = check_url(url, state, u["group"] or u["label"])
+            price, name = check_url(url, state, u["group"] or u["label"]); failed += [] if price is not None else [store_of(url)]
             if price is not None:
                 offers.append((price, url, name or ""))
-        if not offers:
+        if status.setdefault(uid, {}).update(failed=failed) or not offers:
             continue
 
         best_price, best_url, best_name = min(offers)
@@ -455,7 +455,7 @@ def write_app_data(units, state, bought, issue):
             "highest": max(prices) if prices else None,
             "first": prices[0] if prices else None,
             "history": hist,
-            "offers": st.get("offers", []),
+            "offers": st.get("offers", []), "failed": st.get("failed", []),
             "bought": u["id"] in bought,
         })
     data = {
