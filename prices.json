@@ -1,7 +1,7 @@
 {
   "_status": {
     "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn": {
-      "price": 289.0,
+      "price": 290.0,
       "store": "csmegastore.no",
       "lowest": 288.0,
       "name": "Khadlaj Onyx Gold parfyme 100 ml for menn",
@@ -9,7 +9,7 @@
       "target": null,
       "offers": [
         {
-          "price": 289.0,
+          "price": 290.0,
           "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
           "store": "csmegastore.no",
           "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
@@ -24,6 +24,11 @@
         {
           "t": "2026-11-24T04:10:29+00:00",
           "price": 289.0,
+          "store": "csmegastore.no"
+        },
+        {
+          "t": "2026-11-25T04:18:58+00:00",
+          "price": 290.0,
           "store": "csmegastore.no"
         }
       ],
@@ -237,7 +242,7 @@
       "failed": []
     },
     "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex": {
-      "price": 876.0,
+      "price": 890.0,
       "store": "csmegastore.no",
       "lowest": 876.0,
       "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex",
@@ -245,7 +250,7 @@
       "target": null,
       "offers": [
         {
-          "price": 876.0,
+          "price": 890.0,
           "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
           "store": "csmegastore.no",
           "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex"
@@ -256,12 +261,17 @@
           "t": "2026-11-23T20:13:23+00:00",
           "price": 876.0,
           "store": "csmegastore.no"
+        },
+        {
+          "t": "2026-11-25T04:19:25+00:00",
+          "price": 890.0,
+          "store": "csmegastore.no"
         }
       ],
       "failed": []
     },
     "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml": {
-      "price": 281.0,
+      "price": 282.0,
       "store": "csmegastore.no",
       "lowest": 281.0,
       "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml",
@@ -269,7 +279,7 @@
       "target": null,
       "offers": [
         {
-          "price": 281.0,
+          "price": 282.0,
           "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
           "store": "csmegastore.no",
           "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml"
@@ -279,6 +289,11 @@
         {
           "t": "2026-11-23T20:13:24+00:00",
           "price": 281.0,
+          "store": "csmegastore.no"
+        },
+        {
+          "t": "2026-11-25T04:19:28+00:00",
+          "price": 282.0,
           "store": "csmegastore.no"
         }
       ],
@@ -506,6 +521,10 @@
       {
         "t": "2026-11-24T04:10:29+00:00",
         "price": 289.0
+      },
+      {
+        "t": "2026-11-25T04:18:58+00:00",
+        "price": 290.0
       }
     ],
     "errors": 0,
@@ -626,6 +645,10 @@
       {
         "t": "2026-11-23T20:13:23+00:00",
         "price": 876.0
+      },
+      {
+        "t": "2026-11-25T04:19:25+00:00",
+        "price": 890.0
       }
     ],
     "errors": 0,
@@ -638,6 +661,10 @@
       {
         "t": "2026-11-23T20:13:24+00:00",
         "price": 281.0
+      },
+      {
+        "t": "2026-11-25T04:19:28+00:00",
+        "price": 282.0
       }
     ],
     "errors": 0,
@@ -659,28 +686,28 @@
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-obsidian/1096941",
     "name": null,
     "history": [],
-    "errors": 13,
+    "errors": 14,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942",
     "name": null,
     "history": [],
-    "errors": 13,
+    "errors": 14,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943",
     "name": null,
     "history": [],
-    "errors": 13,
+    "errors": 14,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444",
     "name": null,
     "history": [],
-    "errors": 13,
+    "errors": 14,
     "lowest": null
   },
   "https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-obsidian-p88369": {

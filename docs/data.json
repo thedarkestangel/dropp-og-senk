@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:33:16+00:00",
+ "updated": "2026-11-25T04:23:49+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -11,11 +11,11 @@
    "name": "Khadlaj Onyx Gold parfyme 100 ml for menn",
    "group": false,
    "target": null,
-   "price": 289.0,
+   "price": 290.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
    "lowest": 288.0,
-   "highest": 289.0,
+   "highest": 290.0,
    "first": 288.0,
    "history": [
     {
@@ -27,11 +27,16 @@
      "t": "2026-11-24T04:10:29+00:00",
      "price": 289.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-25T04:18:58+00:00",
+     "price": 290.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 289.0,
+     "price": 290.0,
      "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
      "store": "csmegastore.no",
      "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
@@ -292,22 +297,27 @@
    "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex",
    "group": false,
    "target": null,
-   "price": 876.0,
+   "price": 890.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
    "lowest": 876.0,
-   "highest": 876.0,
+   "highest": 890.0,
    "first": 876.0,
    "history": [
     {
      "t": "2026-11-23T20:13:23+00:00",
      "price": 876.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-25T04:19:25+00:00",
+     "price": 890.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 876.0,
+     "price": 890.0,
      "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
      "store": "csmegastore.no",
      "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex"
@@ -321,22 +331,27 @@
    "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml",
    "group": false,
    "target": null,
-   "price": 281.0,
+   "price": 282.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
    "lowest": 281.0,
-   "highest": 281.0,
+   "highest": 282.0,
    "first": 281.0,
    "history": [
     {
      "t": "2026-11-23T20:13:24+00:00",
      "price": 281.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-25T04:19:28+00:00",
+     "price": 282.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 281.0,
+     "price": 282.0,
      "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
      "store": "csmegastore.no",
      "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml"
