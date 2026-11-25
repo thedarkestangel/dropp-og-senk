@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:09:10+00:00",
+ "updated": "2026-11-25T22:11:26+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -108,11 +108,11 @@
    "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce",
    "group": false,
    "target": null,
-   "price": 296.0,
+   "price": 303.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
    "lowest": 296.0,
-   "highest": 300.0,
+   "highest": 303.0,
    "first": 299.0,
    "history": [
     {
@@ -129,11 +129,16 @@
      "t": "2026-11-24T04:10:38+00:00",
      "price": 296.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-25T22:06:44+00:00",
+     "price": 303.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 296.0,
+     "price": 303.0,
      "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce"
@@ -147,11 +152,11 @@
    "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex",
    "group": false,
    "target": null,
-   "price": 277.0,
+   "price": 279.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
    "lowest": 276.0,
-   "highest": 277.0,
+   "highest": 279.0,
    "first": 276.0,
    "history": [
     {
@@ -163,11 +168,16 @@
      "t": "2026-11-23T22:00:24+00:00",
      "price": 277.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-25T22:06:47+00:00",
+     "price": 279.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 277.0,
+     "price": 279.0,
      "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex"
