@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:11:26+00:00",
+ "updated": "2026-11-26T01:33:08+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -341,11 +341,11 @@
    "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml",
    "group": false,
    "target": null,
-   "price": 282.0,
+   "price": 387.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
    "lowest": 281.0,
-   "highest": 282.0,
+   "highest": 387.0,
    "first": 281.0,
    "history": [
     {
@@ -357,11 +357,16 @@
      "t": "2026-11-25T04:19:28+00:00",
      "price": 282.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-26T01:28:47+00:00",
+     "price": 387.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 282.0,
+     "price": 387.0,
      "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
      "store": "csmegastore.no",
      "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml"
