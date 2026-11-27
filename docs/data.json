@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:35:22+00:00",
+ "updated": "2026-11-27T04:23:04+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -11,7 +11,7 @@
    "name": "Khadlaj Onyx Gold parfyme 100 ml for menn",
    "group": false,
    "target": null,
-   "price": 290.0,
+   "price": 288.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
    "lowest": 288.0,
@@ -32,11 +32,16 @@
      "t": "2026-11-25T04:18:58+00:00",
      "price": 290.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-27T04:18:13+00:00",
+     "price": 288.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 290.0,
+     "price": 288.0,
      "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
      "store": "csmegastore.no",
      "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
@@ -162,11 +167,11 @@
    "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex",
    "group": false,
    "target": null,
-   "price": 277.0,
+   "price": 374.26,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
    "lowest": 276.0,
-   "highest": 279.0,
+   "highest": 374.26,
    "first": 276.0,
    "history": [
     {
@@ -188,11 +193,16 @@
      "t": "2026-11-26T22:05:09+00:00",
      "price": 277.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-27T04:18:25+00:00",
+     "price": 374.26,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 277.0,
+     "price": 374.26,
      "url": "https://www.csmegastore.no/i/24114930/khadlaj-karus-secret-musk-parfyme-100-ml-unisex",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex"
@@ -322,7 +332,7 @@
    "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex",
    "group": false,
    "target": null,
-   "price": 890.0,
+   "price": 880.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
    "lowest": 876.0,
@@ -338,11 +348,16 @@
      "t": "2026-11-25T04:19:25+00:00",
      "price": 890.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-27T04:18:40+00:00",
+     "price": 880.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 890.0,
+     "price": 880.0,
      "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
      "store": "csmegastore.no",
      "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex"
@@ -356,7 +371,7 @@
    "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml",
    "group": false,
    "target": null,
-   "price": 394.0,
+   "price": 384.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
    "lowest": 281.0,
@@ -387,11 +402,16 @@
      "t": "2026-11-26T22:05:27+00:00",
      "price": 394.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-27T04:18:43+00:00",
+     "price": 384.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 394.0,
+     "price": 384.0,
      "url": "https://www.csmegastore.no/i/24588965/emir-arena-intense-lueur-d-espoir-eau-de-parfum-100ml",
      "store": "csmegastore.no",
      "name": "Emir Arena Intense Lueur D'Espoir Eau De Parfum 100ml"
