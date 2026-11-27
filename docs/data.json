@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:23:04+00:00",
+ "updated": "2026-11-27T07:37:41+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -208,7 +208,9 @@
      "name": "Khadlaj Karus Secret Musk parfyme 100 ml Unisex"
     }
    ],
-   "failed": [],
+   "failed": [
+    "csmegastore.no"
+   ],
    "bought": false
   },
   {
