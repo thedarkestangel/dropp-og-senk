@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:33:19+00:00",
+ "updated": "2026-11-27T16:20:42+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -302,28 +302,33 @@
   },
   {
    "id": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
-   "name": "Rayhaan Tiger Eau de Parfum spray 100 ml",
+   "name": "Giordano Amaro Tiger parfyme 100 ml",
    "group": false,
    "target": null,
-   "price": 255.0,
+   "price": 335.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
    "lowest": 255.0,
-   "highest": 255.0,
+   "highest": 335.0,
    "first": 255.0,
    "history": [
     {
      "t": "2026-11-23T20:13:23+00:00",
      "price": 255.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-27T16:16:04+00:00",
+     "price": 335.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 255.0,
+     "price": 335.0,
      "url": "https://www.csmegastore.no/i/24802862/rayhaan-tiger-eau-de-parfum-spray-100-ml",
      "store": "csmegastore.no",
-     "name": "Rayhaan Tiger Eau de Parfum spray 100 ml"
+     "name": "Giordano Amaro Tiger parfyme 100 ml"
     }
    ],
    "failed": [],
