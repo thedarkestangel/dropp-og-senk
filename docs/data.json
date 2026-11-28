@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:32:08+00:00",
+ "updated": "2026-11-28T04:11:12+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -11,11 +11,11 @@
    "name": "Khadlaj Onyx Gold parfyme 100 ml for menn",
    "group": false,
    "target": null,
-   "price": 288.0,
+   "price": 332.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
    "lowest": 288.0,
-   "highest": 290.0,
+   "highest": 332.0,
    "first": 288.0,
    "history": [
     {
@@ -37,11 +37,16 @@
      "t": "2026-11-27T04:18:13+00:00",
      "price": 288.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-28T04:06:21+00:00",
+     "price": 332.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 288.0,
+     "price": 332.0,
      "url": "https://www.csmegastore.no/i/25112562/khadlaj-onyx-gold-parfyme-100-ml-for-menn",
      "store": "csmegastore.no",
      "name": "Khadlaj Onyx Gold parfyme 100 ml for menn"
@@ -113,10 +118,10 @@
    "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce",
    "group": false,
    "target": null,
-   "price": 300.0,
+   "price": 295.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
-   "lowest": 296.0,
+   "lowest": 295.0,
    "highest": 303.0,
    "first": 299.0,
    "history": [
@@ -149,11 +154,16 @@
      "t": "2026-11-26T22:05:06+00:00",
      "price": 300.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-28T04:06:30+00:00",
+     "price": 295.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 300.0,
+     "price": 295.0,
      "url": "https://www.csmegastore.no/i/25991947/khadlaj-karus-blu-spice-eau-de-parfum-spray-for-unisex-3-4-ounce",
      "store": "csmegastore.no",
      "name": "Khadlaj Karus Blu Spice Eau de Parfum Spray for Unisex 3.4 Ounce"
