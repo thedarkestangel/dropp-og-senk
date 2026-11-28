@@ -284,7 +284,7 @@
       "failed": []
     },
     "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex": {
-      "price": 880.0,
+      "price": 927.0,
       "store": "csmegastore.no",
       "lowest": 876.0,
       "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex",
@@ -292,7 +292,7 @@
       "target": null,
       "offers": [
         {
-          "price": 880.0,
+          "price": 927.0,
           "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
           "store": "csmegastore.no",
           "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex"
@@ -312,6 +312,11 @@
         {
           "t": "2026-11-27T04:18:40+00:00",
           "price": 880.0,
+          "store": "csmegastore.no"
+        },
+        {
+          "t": "2026-11-28T01:27:43+00:00",
+          "price": 927.0,
           "store": "csmegastore.no"
         }
       ],
@@ -682,7 +687,7 @@
         "price": 374.26
       }
     ],
-    "errors": 6,
+    "errors": 7,
     "lowest": 276.0
   },
   "https://www.csmegastore.no/i/21858080/afnan-supremacy-collector-s-edition-parfyme-100-ml-for-menn": {
@@ -752,6 +757,10 @@
       {
         "t": "2026-11-27T04:18:40+00:00",
         "price": 880.0
+      },
+      {
+        "t": "2026-11-28T01:27:43+00:00",
+        "price": 927.0
       }
     ],
     "errors": 0,
@@ -805,28 +814,28 @@
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-obsidian/1096941",
     "name": null,
     "history": [],
-    "errors": 36,
+    "errors": 37,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-lavender/1096942",
     "name": null,
     "history": [],
-    "errors": 36,
+    "errors": 37,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-berry/1096943",
     "name": null,
     "history": [],
-    "errors": 36,
+    "errors": 37,
     "lowest": null
   },
   "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444": {
     "url": "https://www.elkjop.no/product/sport-hobby-og-fritid/sport-og-trening/aktivitetsmaler/google-fitbit-air-aktivitetssporer-fog/1100444",
     "name": null,
     "history": [],
-    "errors": 36,
+    "errors": 37,
     "lowest": null
   },
   "https://www.kjell.com/no/produkter/mobilt/smartklokker-og-ringer/fitbit-klokker/google-fitbit-air-skjermlost-aktivitetsarmband-obsidian-p88369": {

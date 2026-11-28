@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:11:21+00:00",
+ "updated": "2026-11-28T01:32:08+00:00",
  "repo": "thedarkestangel/dropp-og-senk",
  "issue": {
   "number": 1,
@@ -339,11 +339,11 @@
    "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex",
    "group": false,
    "target": null,
-   "price": 880.0,
+   "price": 927.0,
    "store": "csmegastore.no",
    "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
    "lowest": 876.0,
-   "highest": 890.0,
+   "highest": 927.0,
    "first": 876.0,
    "history": [
     {
@@ -360,11 +360,16 @@
      "t": "2026-11-27T04:18:40+00:00",
      "price": 880.0,
      "store": "csmegastore.no"
+    },
+    {
+     "t": "2026-11-28T01:27:43+00:00",
+     "price": 927.0,
+     "store": "csmegastore.no"
     }
    ],
    "offers": [
     {
-     "price": 880.0,
+     "price": 927.0,
      "url": "https://www.csmegastore.no/i/20221528/mancera-tonka-cola-parfyme-eau-de-parfum-120-ml-unisex",
      "store": "csmegastore.no",
      "name": "Mancera Tonka Cola parfyme Eau de Parfum 120 ml Unisex"
